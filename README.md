@@ -1,5 +1,7 @@
 # flutter_application_1
 
+PROJETO DESENVOLVIDO DURANTE AS AULAS DE FLUTTER NA FATECZL.
+
 A new Flutter project.
 
 ## Getting Started
